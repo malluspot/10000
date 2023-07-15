@@ -2,7 +2,7 @@
    "redirects": [ 
      { 
        "source": "/post/:slug*", 
-       "destination": "https://catuser.com/:slug*", 
+       "destination": "https://blog.letsincorp.com/:slug*", 
        "permanent": true 
      } 
    ] 
